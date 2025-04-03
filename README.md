@@ -54,13 +54,23 @@ Built a **YOLO-based object detection & CNN-powered facial recognition system**,
 ## GitHub Stats & Contributions  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KushagraSaxena77&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KushagraSaxena77&theme=tokyonight" alt="GitHub Streak">
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KushagraSaxena77&theme=tokyonight" alt="GitHub Contribution Summary">
-</p>  
 
+  <a href="https://github.com/KushagraSaxena77">
+    <img src="https://github-readme-stats.vercel.app/api?username=KushagraSaxena77&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats">
+  </a>
+  <br>
+
+
+  <a href="https://github.com/KushagraSaxena77">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KushagraSaxena77&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  </a>
+  <br>
+
+
+  <a href="https://github.com/KushagraSaxena77">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KushagraSaxena77&theme=tokyonight&hide_border=true" alt="GitHub Contribution Summary">
+  </a>
+</p>
 ---
 
 ## Let's Connect  
