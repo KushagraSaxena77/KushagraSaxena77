@@ -10,7 +10,7 @@
 
 ## About Me  
 
-I specialize in **Artificial Intelligence, Deep Learning, and Backend Development**, with hands-on experience in optimizing **Generative AI models, backend infrastructure, and scalable cloud systems**. My focus is on creating efficient, high-performance solutions that push the boundaries of **AI and software engineering**.
+I specialize in **Agentic Development, Artificial Intelligence, Deep Learning, and Backend Development**, with experience in optimising **Generative AI models, backend infrastructure, and scalable cloud systems**. My focus is on creating efficient, high-performance solutions that push the boundaries of **AI and software engineering**.
 
 - **R&D Intern at Samsung** – Optimizing diffusion models using DeepCache & LoRA  
 - **Backend Developer at Medyaan** – Architecting scalable medical data systems with PostgreSQL & FastAPI  
@@ -23,7 +23,7 @@ I specialize in **Artificial Intelligence, Deep Learning, and Backend Developmen
 
 ### **Programming & Frameworks**  
 - Python, C++, JavaScript, Swift  
-- TensorFlow, PyTorch, FastAPI, Flask, Vue.js  
+- LangChain, LangGraph, LangSmith, TensorFlow, PyTorch, FastAPI, Flask, Vue.js  
 
 ### **Data & AI**  
 - Generative AI, Deep Learning, Digital Image Processing  
